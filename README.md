@@ -20,12 +20,3 @@ Headhunting Minería: Automatización de extracción y análisis de perfiles eje
 3. **Dashboard en Excel**  
    - A partir de `Perfiles_Limpios.xlsx` se construyen gráficos de distribución de cargos, materiales, experiencia y herramientas dominadas.  
    - Se añade un filtro dinámico por años de experiencia y se selecciona un Top-20 de candidatos.
-
----
-
-## Cómo empezar
-
-1. **Clonar** el repositorio  
-   ```bash
-   git clone https://github.com/tu_usuario/headhunting-mineria.git
-   cd headhunting-mineria
